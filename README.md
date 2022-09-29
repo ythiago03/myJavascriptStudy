@@ -109,7 +109,7 @@ var nomes = ['Thiago', 'João', 'Maria']//Um array pode ter mais de um valor gua
 
 ```
 
-Então como eu faço para pegar um valor específico do meu array? Basicamente, todo elemento do array tem um índice, que sempre começa do 0, assim se você quiser acessar um valor específico, você precisa indicar o índice que você quer acessar colocando ele entre [].
+Então como eu faço para pegar um valor específico do meu array? Basicamente, todo elemento do array tem um índice, que sempre começa do 0, assim se você quiser acessar um valor específico, você precisa indicar o índice que você quer acessar colocando ele entre [ ].
 
 ```js
 var nomes = ['Thiago', 'João', 'Maria']
@@ -122,17 +122,17 @@ console.log(nomes[1])//João
 
 Alguns dos principais médodos de array.
 
-<h3>map()</h3>
+<h3>map( )</h3>
 
-<h3>find() e findIndex()</h3>
+<h3>find( ) e findIndex()</h3>
 
-<h3>every()</h3>
+<h3>every( )</h3>
 
-<h3>filter()</h3>
+<h3>filter( )</h3>
 
-<h3>some()</h3>
+<h3>some( )</h3>
 
-<h3>reduce()</h3>
+<h3>reduce( )</h3>
 
 # Projetos Práticos
 
