@@ -1,8 +1,11 @@
+
 <h1 align="center"> Estudos de javascript </h1>
 
 <p align="center"> Repositório para guardar meus estudos de javascript </p>
 
 <img src="https://amplificadigital.com.br/wp-content/uploads/2019/12/amplifica_banner_blog_programaccca7acc83o.webp" alt="Capa do projeto">
+
+<h4 align="center">🚧  This project is under construction . . .  🚧 </h4>
 
 <p align="center">
     <a href="#sobre">sobre</a> •
@@ -23,6 +26,7 @@
 - A ideia deste repositório é guardar estudos do javascript desde o básico ao avançado.
 - Estou atualizando esse repositório de acordo com meus estudos, como tive dificuldade de aprender javascript, estou criando esse repositório para solidificar meu aprendizado e ajudar outras pessoas que tenham dificuldade.
 - Por enquanto só vou colocar conteudos sobre javascript, mas futuramente planejo colocar conteudos sobre outras linguagens de programação.
+- Fique a vontade para contribuir com esse repositório enviando pull requests.
 - Se você encontrar algum bug ou quiser me dar alguma dica fique a vontade para me chamar no email: ythiagohcfidencio@gmail.com
  
 # Tecnologias
@@ -72,7 +76,7 @@ Elas podem ser indicadas de três diferentes formas: `` var, let e const``.
 <h2>Var</h2>
 Variáveis indicadas pela palavra `` var `` ela é a variável mais liberal, sofre de hoisting, pode ser reatribuída, escapa do escopo.
 
-<h3>Hoisting</h3>
+<!-- <h3>Hoisting</h3>
 
 <h3>Reatribuição</h3>
 
@@ -81,7 +85,7 @@ Variáveis indicadas pela palavra `` var `` ela é a variável mais liberal, sof
 <h2>Let</h2>
 
 <h2>Const</h2>
-nao pode ser reatribuida
+nao pode ser reatribuida -->
 
 # Funções
 
@@ -96,14 +100,39 @@ nao pode ser reatribuida
 
 # Arrays e Objects
 
-arrays são variáveis compostas
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Basicamente falando, um array é uma variável que pode armazenar mais de um valor, por exemplo:
+
+```js
+var nome = 'Thiago';//Uma variável não pode receber mais de um valor.
+
+var nomes = ['Thiago', 'João', 'Maria']//Um array pode ter mais de um valor guardado dentro dele.
+
+```
+
+Então como eu faço para pegar um valor específico do meu array? Basicamente, todo elemento do array tem um índice, que sempre começa do 0, assim se você quiser acessar um valor específico, você precisa indicar o índice que você quer acessar colocando ele entre [].
+
+```js
+var nomes = ['Thiago', 'João', 'Maria']
+
+console.log(nomes[1])//João
+
+```
+
+<h2>Principais Métodos</h2>
+
+Alguns dos principais médodos de array.
+
+<h3>map()</h3>
+
+<h3>find() e findIndex()</h3>
+
+<h3>every()</h3>
+
+<h3>filter()</h3>
+
+<h3>some()</h3>
+
+<h3>reduce()</h3>
 
 # Projetos Práticos
 
