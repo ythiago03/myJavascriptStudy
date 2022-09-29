@@ -124,7 +124,7 @@ Alguns dos principais médodos de array.
 
 <h3>map( )</h3>
 
-<h3>find( ) e findIndex()</h3>
+<h3>find( ) e findIndex( )</h3>
 
 <h3>every( )</h3>
 
