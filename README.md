@@ -23,7 +23,6 @@
 - A ideia deste repositório é guardar estudos do javascript desde o básico ao avançado.
 - Estou atualizando esse repositório de acordo com meus estudos, como tive dificuldade de aprender javascript, estou criando esse repositório para solidificar meu aprendizado e ajudar outras pessoas que tenham dificuldade.
 - Por enquanto só vou colocar conteudos sobre javascript, mas futuramente planejo colocar conteudos sobre outras linguagens de programação.
-- Fique a vontade para contribuir com esse repositório enviando pull requests.
 - Se você encontrar algum bug ou quiser me dar alguma dica fique a vontade para me chamar no email: ythiagohcfidencio@gmail.com
  
 # Tecnologias
