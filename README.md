@@ -124,6 +124,15 @@ Alguns dos principais médodos de array.
 
 <h3>map( )</h3>
 
+```js
+.map()
+newArray = array.map( element => element * 2);//Dobra o elemento do array. 
+//Não altera o array original.
+//Executa uma ação para cada elemento do array.
+//O novo array sempre vai ter o msm tamanho do array original.
+
+```
+
 <h3>find( ) e findIndex( )</h3>
 
 <h3>every( )</h3>
